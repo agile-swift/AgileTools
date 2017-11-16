@@ -1,0 +1,28 @@
+{
+  "name": "AgileTools",
+  "version": "0.1.0",
+  "summary": "The collection of all Agile Tools For Swift",
+  "description": "The collection of all Agile Tools For Swift ,cool",
+  "homepage": "https://github.com/agile-swift/AgileTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kevin" : "devkevinma@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/agile-swift/AgileTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "dependencies": {
+    "ATFoundation": [ ],
+    "ATUIKit": [ ],
+    "ATRequest": [ ],
+    "ATTimer": [ ],
+    "ATCycleView" : [ ]
+  }
+}
