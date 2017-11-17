@@ -1,6 +1,6 @@
 {
   "name": "AgileTools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "The collection of all Agile Tools For Swift",
   "description": "The collection of all Agile Tools For Swift ,cool",
   "homepage": "https://github.com/agile-swift/AgileTools",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/agile-swift/AgileTools.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
