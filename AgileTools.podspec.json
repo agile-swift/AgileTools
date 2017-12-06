@@ -23,6 +23,7 @@
     "ATUIKit": [ ],
     "ATRequest": [ ],
     "ATTimer": [ ],
+    "ATDebug": [],
     "ATCycleView" : [ ]
   }
 }
