@@ -23,7 +23,8 @@
     "ATUIKit": [ ],
     "ATRequest": [ ],
     "ATTimer": [ ],
-    "ATDebug": [],
-    "ATCycleView" : [ ]
+    "ATDebug": [ ],
+    "ATCycleView" : [ ],
+    "ATListView": [ ]
   }
 }
